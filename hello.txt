@@ -1,0 +1,2 @@
+hello git, hello github!
+this is my first time to use git,  i wanna to make me happy !
