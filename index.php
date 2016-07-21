@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
   $postid = $_GET[id];
 //   echo $postid;
   
@@ -35,4 +36,7 @@ header("Location:message.php");
   echo ' <a href="message.php" > Delete successful, Please click return back!</a>';
   //echo '<a href="message.php">';
   
+=======
+ echo "hello git!"; 
+>>>>>>> d61d58f3c93e8bcee1cf26936cbabc822b52eb91
  ?>

@@ -1,0 +1,10 @@
+hello git, hello github!
+
+#this is area modified~
+
+#this is second time to modified~
+
+#this is third time to modified~
+
+
+this is my first time to use git,  i wanna to make me happy !
